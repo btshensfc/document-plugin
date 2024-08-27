@@ -58,7 +58,7 @@ class UploadFileService {
         ObjectId objectid = new ObjectId("66cd0bbe4bd2530aba517bdb")
         try {
                 mongoClient = MongoClients.create("mongodb://localhost:27017/")
-                MongoDatabase database = mongoClient.getDatabase("teachershop") //change this to whichever file server we use
+                MongoDatabase database = mongoClient.getDatabase("teachershopdocs") //change this to whichever file server we use
                 MongoCollection<Document> collection = database.getCollection("files")
 
                 BasicDBObject query = new BasicDBObject("_id", objectid) //this works 
