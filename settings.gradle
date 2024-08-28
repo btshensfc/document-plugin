@@ -7,5 +7,5 @@ rootProject.name = 'document-plugin'
         }
     }
     dependencies {
-        implementation 'com.github.btshen:document-plugin:Version'
+        implementation 'com.github.btshen:document-plugin:8f253cf8335afc6a8a507b94e8121b48a44449d7'
     }
