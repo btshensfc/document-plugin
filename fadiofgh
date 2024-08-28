@@ -1,0 +1,71 @@
+[33mcommit 35856d9200679bcce3489029bc4ff451e3ff6e47[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 21:56:20 2024 -0700
+
+    fix plugins order
+
+[33mcommit 254d80b9762a0552f4945dac0fc1ef972ae2c556[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 21:54:58 2024 -0700
+
+    fix version no
+
+[33mcommit 92bcccd778c2e2e59c45db8eb2f3425b428c8827[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 21:54:05 2024 -0700
+
+    fix plugins
+
+[33mcommit 8a7334df6c3039a473984b55f68c59c8fd066c23[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 17:58:19 2024 -0700
+
+    reivise for vnumber
+
+[33mcommit 4fcf27caf01e4fe1f1f7f2db99d1f8aba6939b97[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 17:57:43 2024 -0700
+
+    revise 2
+
+[33mcommit 8b4a293866f7fde9cb62a8cb986a05efb3fb5742[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 17:55:32 2024 -0700
+
+    revise
+
+[33mcommit 8f253cf8335afc6a8a507b94e8121b48a44449d7[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 17:54:54 2024 -0700
+
+    fix setting dependancies
+
+[33mcommit a73b6de15919ee444479cfe2963753e5b6974562[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 17:44:01 2024 -0700
+
+    created publishing func
+
+[33mcommit 28e32057e399abdf287c5fe5dbfda05addbdf42c[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 17:38:27 2024 -0700
+
+    test maven publish
+
+[33mcommit a8d62a437a954f83e6e6cdc8ace2888edfe60a3b[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Tue Aug 27 17:36:05 2024 -0700
+
+    test jitpack rebuild
+
+[33mcommit 0b7c8edcf735053ef11e24e73ef749abcc55cb50[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Mon Aug 26 19:19:33 2024 -0700
+
+    update teachershopdocs
+
+[33mcommit 56dff030bad758219dc6af7bd4a08aa78b7c2f93[m
+Author: btshensfc <shen.braint@gmail.com>
+Date:   Mon Aug 26 19:14:09 2024 -0700
+
+    initial comit
