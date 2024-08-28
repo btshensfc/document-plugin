@@ -56,6 +56,7 @@ dependencies {
     implementation 'org.grails.plugins:mongodb:7.1.0'
     implementation 'org.mongodb:mongodb-driver-core:4.5.1'
     implementation project(':plugins:document-plugin')
+    implementation 'com.github.btshen:document-plugin:8b4a293866f7fde9cb62a8cb986a05efb3fb5742'
     //implementation "org.grails.plugins:hibernate5"
     //implementation "org.hibernate:hibernate-core:5.6.11.Final"
     profile "org.grails.profiles:web-plugin"
